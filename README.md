@@ -1,22 +1,15 @@
 ---
-topic: ASP.NET and SQL Database sample for Azure App Service
+topic: ASP.NET and Database sample 
 languages:
   - aspx-csharp
-products:
-  - Azure App Service
-  - Azure Web Apps
 ---
 
-# ASP.NET and SQL Database sample for Azure App Service
+# ASP.NET and Database sample 
 
-This is a sample application that you can use to follow along with the tutorial at 
-[Create an ASP.NET app in Azure with SQL Database](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase/). 
+This is a sample application that you can use to understand the changes there would be in a project whose database would have been migrated from SQL Database to Aurora PostgreSQL in this example. 
 
 ## License
 
 See [LICENSE](LICENSE).
 
-## Contributing
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-  
+ 
